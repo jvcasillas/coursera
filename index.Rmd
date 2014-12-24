@@ -54,6 +54,9 @@ output            :
 
 ----
 
+```{r, child = './9_data_products/notes.Rmd'}
+```
 
+----
 
 
