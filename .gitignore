@@ -1,0 +1,33 @@
+# Files types
+.cache
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user
+.pdf
+.md
+.mp4
+.csv
+.R
+.txt
+.xlsx
+.r
+.jpg
+.png
+.rds
+.zip
+.bz2
+.css
+.gif
+.yml
+.js
+# Folders
+1_data_scientists_toolbox
+2_getting_and_cleaning_data
+3_r_programming
+4_exploratory_data_analysis
+5_reproducible_research
+6_statistical_inference
+7_regression_models
+8_machine_learning
+9_data_products
